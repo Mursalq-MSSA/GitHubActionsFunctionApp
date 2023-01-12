@@ -1,2 +1,1 @@
-# GitHubActionsFunctionApp
-GitHubActionsFunctionApp
+# GithubActionsFunctionApp
